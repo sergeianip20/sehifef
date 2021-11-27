@@ -1,0 +1,80 @@
+{
+    "tort": [
+        {"id": 0,
+        "name": "торт с медведем",
+        "types": [0, 1],
+        "sizes": [1, 2, 3],
+        "prise": 1500,
+        "category": 0,
+        "rating": 4,
+        "imageUrl": "https://sun9-40.userapi.com/impg/x-ZbdRAEPFC8tRHOAtN7PMdvZQW757PYD3yVRg/2DJpf20xO1U.jpg?size=852x852&quality=96&sign=c331625e95467f75f93f899e1804dae5&type=album"
+        
+        },
+        {
+
+            "id": 1,
+            "name": "торт   на 14 лет",
+            "types": [0, 1],
+            "sizes": [1, 2, 3],
+            "prise": 1500,
+            "category": 0,
+            "rating": 4,
+            "imageUrl": " https://sun9-8.userapi.com/impg/MbEwrV1Gbet4en8zD1bdgceiidFi_b4cxJlTQA/FDR0ZoVCffg.jpg?size=607x1080&quality=96&sign=5612e87bc35316e19767c73a21909d7a&type=album"
+
+
+        },
+
+        {
+
+            "id": 2,
+            "name": "торт  ",
+            "types": [0, 1],
+            "sizes": [1, 2, 3],
+            "prise": 1500,
+            "category": 0,
+            "rating": 4,
+            "imageUrl": "https://sun9-52.userapi.com/impg/S5ONsYhkF0r1P9eOeRBl6fIdYyMF-UH7Nk1j8Q/vVEGkcPDRds.jpg?size=607x1080&quality=96&sign=f8743b0d2109ab38e1efa0790adfaaa3&type=album"
+        },
+
+{
+    "id": 3,
+    "name": "детский торт",
+    "types": [0, 1],
+    "sizes": [1, 2, 3],
+    "prise": 1500,
+    "category": 0,
+    "rating": 4,
+    "imageUrl": "https://sun9-18.userapi.com/impg/IwesHHrBLvYxkfhyo5tzI8c6EN9F_v6VCn58Jw/_4y4Lc3XOe0.jpg?size=607x1080&quality=96&sign=e9617991a7db3df6902e8fda8241c702&type=album"
+
+
+
+},
+{
+"id": 4,
+    "name": "детский торт",
+    "types": [0, 1],
+    "sizes": [1, 2, 3],
+    "prise": 1500,
+    "category": 0,
+    "rating": 4,
+    "imageUrl": "https://sun9-44.userapi.com/impg/NP1VhGYjmtQGDUaCL3OpZlEv_2mYdFqq4rpBZQ/42TL6ycEaHc.jpg?size=607x1080&quality=96&sign=bdf92f7957f68ad1186235671e33bf5a&type=album"
+
+},
+{
+    "id": 4,
+    "name": "детский торт",
+    "types": [0, 1],
+    "sizes": [1, 2, 3],
+    "prise": 1500,
+    "category": 0,
+    "rating": 4,
+    "imageUrl": "https://sun9-39.userapi.com/impg/_pylqoCZYC2-90EYuRciFM-3DDoOmWRtRIkFkQ/xfLzu87dDnk.jpg?size=1280x720&quality=96&sign=e9af34c58c19fd32aed75ee3ea6ddb3f&type=album"
+
+
+
+
+}
+
+    ]
+}
+

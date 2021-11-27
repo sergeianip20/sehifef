@@ -1,0 +1,21 @@
+{
+"tort" : [
+
+{
+    "id": 0,
+    "name": "Корпоративный ",
+    "types": [0, 1],
+    "sizes": [1, 2, 3],
+    "prise": 1500,
+    "category": 0,
+    "rating": 4,
+    "imageUrl": "https://sun9-88.userapi.com/impg/cX_WXfGH58xNKwBLW4fIKA5_OX_b2TLJdMTb1w/fDFqmALoOEo.jpg?size=607x1080&quality=96&sign=2189914307a278f0658556a1e4a27042&type=album"
+
+
+}
+
+
+
+]
+
+}

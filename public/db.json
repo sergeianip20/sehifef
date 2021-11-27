@@ -1,0 +1,112 @@
+{
+"tort": [
+    {"id": 0,
+    "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+    "name": "ТОрт  со сгущенкой",
+    "types": [0, 1],
+    "sizes": [1, 2, 3],
+    "prise": 1500,
+    "category": 0,
+    "rating": 4
+
+    
+    },
+    {"id": 1,
+        "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+        "name": "ТОрт c шоколадом",
+        "types": [1],
+        "sizes": [1, 2, 3],
+        "prise": 1650,
+        "category": 1,
+        "rating": 4
+    
+        
+        },
+        {"id": 2,
+            "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+            "name": "Торт бомба",
+            "types": [0],
+            "sizes": [1,  3],
+            "prise": 850,
+            "category": 2,
+            "rating": 4
+        
+            
+            },
+            {"id": 3,
+                "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                "name": "ТОрт  со сгущенкой",
+                "types": [0, 1],
+                "sizes": [ 2, 3],
+                "prise": 750,
+                "category": 3,
+                "rating": 4
+            
+                
+                },
+                {"id": 4,
+                    "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                    "name": "ТОрт  со сгущенкой",
+                    "types": [0, 1],
+                    "sizes": [1, 2 ],
+                    "prise": 960,
+                    "category": 4,
+                    "rating": 4
+                
+                    
+                    },
+                    {"id": 5,
+                        "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                        "name": "ТОрт  со сгущенкой",
+                        "types": [0, 1],
+                        "sizes": [1, 2, 3],
+                        "prise": 550,
+                        "category": 5,
+                        "rating": 4
+                    
+                        
+                        },
+                        {"id": 6,
+                            "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                            "name": "ТОрт  со сгущенкой",
+                            "types": [0, 1],
+                            "sizes": [1, 2, 3],
+                            "prise": 550,
+                            "category": 6,
+                            "rating": 4
+                        
+                            
+                            },
+
+
+                            {"id": 7,
+                                "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                                "name": "ТОрт  со сгущенкой",
+                                "types": [0, 1],
+                                "sizes": [1, 2, 3],
+                                "prise": 550,
+                                "category": 7,
+                                "rating": 4
+                            
+                                
+                                },{"id": 8,
+                                    "imageUrl": "https://sun9-66.userapi.com/impg/rNx0J7iaVdkcb2mbflbKzAUKsDeWWGFrXueUcg/26aPMhXxhwc.jpg?size=607x1080&quality=96&sign=9d5ea23371fff2fc6e3f62ee017352c2&type=album",
+                                    "name": "ТОрт  со сгущенкой",
+                                    "types": [0, 1],
+                                    "sizes": [1, 2, 3],
+                                    "prise": 550,
+                                    "category": 8,
+                                    "rating": 4
+                                
+                                    
+                                    }
+
+]
+
+
+
+
+
+
+
+}
