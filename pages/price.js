@@ -41,7 +41,7 @@ return <>
         <div className ={s.users_grid}>    
         {
 
-        tort.map( u => <div className = 'users_item'> <Wedding key ={u.id} {...u}/> </div>)
+        tort.map( u => <div  key = {u.id}  className = 'users_item'> <Wedding key ={u.id} {...u}/> </div>)
         }
         
       </div>  

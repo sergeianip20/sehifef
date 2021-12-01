@@ -1,7 +1,7 @@
 import React , {useState, useEffect} from 'react'
 import s from './form.module.css'
 
-const formvalid = ()=> {
+const Formvalid = ()=> {
     const [name, setname] = useState('')
 
     const [phone, setphone] = useState('')
@@ -108,4 +108,4 @@ placeholder="напишите имя"/>
 }
 
 
- export default formvalid
+ export default Formvalid
